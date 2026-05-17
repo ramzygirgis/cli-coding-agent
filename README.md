@@ -32,8 +32,8 @@ The main control loop for this process is implemented in `main.py`.
 ## 1. Clone the repository
 
 ```bash
-git clone https://github.com/ramzygirgis/walmart-cursor.git
-cd walmart-cursor
+git clone https://github.com/ramzygirgis/cli-coding-agent.git
+cd cli-coding-agent
 ```
 
 ---
