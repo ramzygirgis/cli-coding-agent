@@ -1,4 +1,4 @@
-# AI Code Assistant (Gemini Agent)
+# LLM Debugger Assistant (Gemini Agent)
 
 This project implements a simple **in-terminal AI coding agent** inspired by tools like **Cursor** and **Claude Code**. The agent can inspect, edit, and run files inside a working directory in order to **diagnose and fix bugs automatically**.
 
